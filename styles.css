@@ -1,0 +1,66 @@
+
+html{
+    height: 1280px;
+    background-color: #FAFAF9;
+    display: grid;
+    place-items: center;
+}
+
+
+.wrapper{
+    box-shadow: 0px 30px 100px 0px rgba(17, 23, 41, 0.05);    
+    width: 336px;
+    flex-direction: column;    
+    border-radius: 10px;
+    display: flex;
+    padding: 16px;
+    row-gap: 16px;
+}
+
+.design{
+    width: 40px;
+    background-color: #E6D6FC;
+    border-radius: 10px;
+    font-size: 10px;
+    text-align: center;
+    color: #883AE1;
+    padding: 6px 16px;
+    font-family: "Sora", sans-serif;
+    font-weight: 700;
+}
+
+.cactus-img{
+  height: 152px;
+  width: 336px;
+  border-radius: 10px;
+}
+
+.items h1{
+    font-size: 1.125rem;
+    font-family: "Sora", sans-serif;
+    color: #20293A;
+}
+
+.items p{
+    margin-top: 6px;
+    font-size: 0.875rem;
+    font-family: "Sora", sans-serif;
+    color: #6C727F;
+    padding-right: 50px;
+}
+
+.items .name{
+    font-size: 10px;
+    padding-top: 16px;
+}
+
+
+hr{
+  width: 110%;
+  margin-left: -16px;
+  margin-right: -16px;
+  border: 0;
+  border-top: 1px solid #E5EAF0;
+}
+
+
